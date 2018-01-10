@@ -5,6 +5,7 @@
       <view class="feed-source">
         <a class="">
           <view class="avatar">
+          
             <image src="{{item.feed_source_img}}"></image>
           </view>
           <text>{{item.feed_source_txt}}</text>
